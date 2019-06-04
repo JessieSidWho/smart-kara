@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/smart-kara/static/css/main.808f0504.chunk.css",
+    "main.js": "/smart-kara/static/js/main.41452211.chunk.js",
+    "main.js.map": "/smart-kara/static/js/main.41452211.chunk.js.map",
+    "runtime~main.js": "/smart-kara/static/js/runtime~main.bb8d575b.js",
+    "runtime~main.js.map": "/smart-kara/static/js/runtime~main.bb8d575b.js.map",
+    "static/js/2.3310f33a.chunk.js": "/smart-kara/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/smart-kara/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/smart-kara/index.html",
+    "precache-manifest.d2aaaa8ae4748adc41f2afc3bdc2a3e5.js": "/smart-kara/precache-manifest.d2aaaa8ae4748adc41f2afc3bdc2a3e5.js",
+    "service-worker.js": "/smart-kara/service-worker.js",
+    "static/css/main.808f0504.chunk.css.map": "/smart-kara/static/css/main.808f0504.chunk.css.map"
+  }
+}
