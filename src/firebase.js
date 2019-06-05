@@ -1,4 +1,5 @@
-import firebase from 'firebase'
+import firebase from 'firebase';
+
 const config = {
     apiKey: "AIzaSyCqd0_HxaakU2sM1hYjM3T2FOJr67OXW_8",
     authDomain: "smart-kara.firebaseapp.com",

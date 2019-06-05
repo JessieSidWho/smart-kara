@@ -33,15 +33,15 @@ class Info extends Component {
 
   render() {
     return (
-      <div className='row justify-content-md-center mt-5 mb-5 text-white'>
+      <div className='row justify-content-md-center mt-5 mb-5 text-white' style={{fontFamily: 'Poppins'}}>
         <div className='col-md-6 border border-light rounded-lg p-4 mt-5'>
           <h2>Welcome to Smart Kara!</h2>
-          <p className='text-left pt-2 pb-2'>What is Smart Kara is a : ~ this is where all the info goes for the what Smart Kara is. 
+          <p className='text-left pt-2 pb-2'>Smart Kara is a : &#40; This is where all your information goes for the product; basically what it's about, how it works, and the mission of the company &#41;  
             Smart Kara is currently in the works; it will be coming to the market soon. </p>
-            <p>Sign-up for updates on Smart Kara below!</p>
+            <p>Sign-up for Updates on Smart Kara!</p>
           <section className='add-email'>
             <form onSubmit={this.handleSubmit}>
-                <input className='rounded-lg mt-3' id='emailInput' type="email" name="email" placeholder="E-mail" onChange={this.handleChange} value={this.state.email} />
+                <input className='rounded-lg mt-2' id='emailInput' type="email" name="email" placeholder="E-mail" onChange={this.handleChange} value={this.state.email} />
               <button type='submit' className='btn btn-primary btn-block rounded-lg mt-2' >Submit</button>
             </form>
           </section>
