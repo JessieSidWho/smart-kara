@@ -34,7 +34,7 @@ class Info extends Component {
   render() {
     return (
       <div className='row justify-content-md-center mt-5 mb-5 text-white' style={{fontFamily: 'Poppins'}}>
-        <div className='col-md-6 border border-light rounded-lg p-4 mt-5'>
+        <div className='col-md-6 border border-light rounded-lg p-4 mt-5 mb-5'>
           <h2>Welcome to Smart Kara!</h2>
           <p className='text-left pt-2 pb-2'>Smart Kara is a : &#40; This is where all your information goes for the product; basically what it's about, how it works, and the mission of the company &#41;  
             Smart Kara is currently in the works; it will be coming to the market soon. </p>
