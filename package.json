@@ -5,6 +5,8 @@
   "homepage": "https://jessiesidwho.github.io/smart-kara",
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "dotenv": "^8.0.0",
+    "firebase": "^6.1.0",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-bootstrap": "^1.0.0-beta.9",
