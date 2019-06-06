@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "737335c77b62dcca5f81375501f86cbc",
+    "revision": "a7dc8ef4cd5e8b7dfd56f549bd1e02a5",
     "url": "/smart-kara/index.html"
   },
   {
-    "revision": "4ec3edb87c0f0c5447a9",
+    "revision": "c43b3289c595158b4b0b",
     "url": "/smart-kara/static/css/main.5ad44534.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/smart-kara/static/js/2.a106dc24.chunk.js"
   },
   {
-    "revision": "4ec3edb87c0f0c5447a9",
-    "url": "/smart-kara/static/js/main.c82d95de.chunk.js"
+    "revision": "c43b3289c595158b4b0b",
+    "url": "/smart-kara/static/js/main.a1139553.chunk.js"
   },
   {
     "revision": "e2891433a3d62ebb9796",

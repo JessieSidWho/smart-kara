@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/smart-kara/static/css/main.5ad44534.chunk.css",
-    "main.js": "/smart-kara/static/js/main.c82d95de.chunk.js",
-    "main.js.map": "/smart-kara/static/js/main.c82d95de.chunk.js.map",
+    "main.js": "/smart-kara/static/js/main.a1139553.chunk.js",
+    "main.js.map": "/smart-kara/static/js/main.a1139553.chunk.js.map",
     "runtime~main.js": "/smart-kara/static/js/runtime~main.bb8d575b.js",
     "runtime~main.js.map": "/smart-kara/static/js/runtime~main.bb8d575b.js.map",
     "static/js/2.a106dc24.chunk.js": "/smart-kara/static/js/2.a106dc24.chunk.js",
     "static/js/2.a106dc24.chunk.js.map": "/smart-kara/static/js/2.a106dc24.chunk.js.map",
     "index.html": "/smart-kara/index.html",
-    "precache-manifest.3a8069bfd5cb3ec5423af86515ff6864.js": "/smart-kara/precache-manifest.3a8069bfd5cb3ec5423af86515ff6864.js",
+    "precache-manifest.50f0dab6107affcce84c2ef6fbdb54dc.js": "/smart-kara/precache-manifest.50f0dab6107affcce84c2ef6fbdb54dc.js",
     "service-worker.js": "/smart-kara/service-worker.js",
     "static/css/main.5ad44534.chunk.css.map": "/smart-kara/static/css/main.5ad44534.chunk.css.map",
     "static/media/index.css": "/smart-kara/static/media/ring.d321ec5c.png"

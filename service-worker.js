@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/smart-kara/precache-manifest.3a8069bfd5cb3ec5423af86515ff6864.js"
+  "/smart-kara/precache-manifest.50f0dab6107affcce84c2ef6fbdb54dc.js"
 );
 
 self.addEventListener('message', (event) => {
