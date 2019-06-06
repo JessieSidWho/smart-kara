@@ -36,8 +36,8 @@ class Info extends Component {
       <div className='row justify-content-md-center mt-5 mb-5 text-white' style={{fontFamily: 'Poppins'}}>
         <div className='col-md-6 border border-light rounded-lg p-4 mt-5 mb-5'>
           <h2>Welcome to Smart Kara!</h2>
-          <p className='text-left pt-2 pb-2'>Smart Kara is a : &#40; This is where all your information goes for the product; basically what it's about, how it works, and the mission of the company &#41;  
-            Smart Kara is currently in the works; it will be coming to the market soon. </p>
+          <p className='text-left pt-2 pb-2'> Smart Kara is wearable technology that monitors your health and keeps track of all your fitness goals. Our unique design transforms your wrist into a personal companion that helps you stay motivated and connected. </p>
+            <p>Smart Kara is currently in the works; it will be coming to the market soon. </p>
             <p>Sign-up for Updates on Smart Kara!</p>
           <section className='add-email'>
             <form onSubmit={this.handleSubmit}>
